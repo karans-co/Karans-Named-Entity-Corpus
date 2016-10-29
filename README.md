@@ -7,7 +7,7 @@ This repository is under construction. The current progress is shown in table be
 | PER         | 121             | 5109    | 2 %    |
 | LOC         | 130             | 2476    | 5 %    |
 | ORG         | 137             | 4181    | 3 %    |
-| Total         | 802            | 11766   | 6 %   |
+| Total         | 388            | 11766   | 3 %   |
 
 
 
