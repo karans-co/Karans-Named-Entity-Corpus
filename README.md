@@ -1,5 +1,7 @@
 # Karans Named Entity Corpus
 
+This repository is under construction. The current progress is shown in table below: 
+
 | NE Tags        | Count           | 
 | ------------- |:-------------:|
 | B-PER         | 116      | 
@@ -9,4 +11,6 @@
 | B-ORG         | 124 | 
 | I-ORG         | 224 | 
 | Total         | 757        |
+
+
 
