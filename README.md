@@ -2,15 +2,12 @@
 
 This repository is under construction. The current progress is shown in table below: 
 
-| NE Tags        | Count           | 
-| ------------- |:-------------:|
-| B-PER         | 121      | 
-| I-PER         | 78      | 
-| B-LOC         | 130      | 
-| I-LOC         | 86 | 
-| B-ORG         | 137 | 
-| I-ORG         | 250 | 
-| Total         | 802        |
+| NE Tags        | Count            | Goal          | Progress      |
+| ------------- |:-------------:    |
+| B-PER         | 121             | 5109    | 2 %    |
+| B-LOC         | 130             | 2476    | 5 %    |
+| B-ORG         | 137             | 4181    | 3 %    |
+| Total         | 802            | 11766   | 6 %   |
 
 
 
