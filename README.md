@@ -3,11 +3,11 @@
 This repository is under construction. The current progress is shown in table below: 
 
 | NE Tags        | Count            | Goal          | Progress      |
-| :-------------: |:-------------:|:-------------:| :-----:|
-| PER         | 121             | 5109    | 2 %    |
-| LOC         | 130             | 2476    | 5 %    |
-| ORG         | 137             | 4181    | 3 %    |
-| Total         | 388            | 11766   | 3 %   |
+| ------------- |:-------------:|:-------------:| -----:|
+| PER         | 257             | 5109    | 5 %    |
+| LOC         | 272             | 2476    | 10 %    |
+| ORG         | 216             | 4181    | 5 %    |
+| Total         | 745            | 11766   | 6 %   |
 
 
 
