@@ -1,4 +1,4 @@
-# Karans Named Entity Corpus
+# Karans Persian Named Entity Corpus
 This repository is under construction. The current progress is shown in table below: 
 
 | NE Tags        | Count            | Goal          | Progress      |
