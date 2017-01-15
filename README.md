@@ -9,4 +9,4 @@ This repository is under construction. The current progress is shown in table be
 | Total         | 1196            | 11766   | 10 %   |
 |Corpus size | 24160            | 250000   | 9 %   |
 
-The original texts is gathered from various news websites.Data sources include (farsnews,yjc,tabnak,jahannews,...) .Tagging mechanism is published in a paper that will be uploaded in the future.These repository is revised by human in a rough manner.The accurate version of this corpus is published soon.
+The original texts is gathered from various news websites.Data sources include (farsnews,yjc,tabnak) .Tagging mechanism is published in a paper that will be uploaded in the future.These repository is revised by human in a rough manner.The accurate version of this corpus is published soon.
